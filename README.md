@@ -4,9 +4,10 @@ Timer Clock Design
 
 ![App Banner](https://github.com/zeeshanayaz/pomodoro-timer-clock/blob/master/demo/banner.png)
 
-
 ## UI Demo
-<img src="https://github.com/zeeshanayaz/pomodoro-timer-clock/blob/master/demo/screen_1.png" width="100" />
+<p float="left">
+    <img src="https://github.com/zeeshanayaz/pomodoro-timer-clock/blob/master/demo/screen_1.png" width="100" />
+</p>
 
 ## Contributor
 * **Muhammad Zeeshan** - [GitHub](https://github.com/zeeshanayaz)
